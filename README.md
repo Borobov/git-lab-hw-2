@@ -1,21 +1,10 @@
 # Обзор систем IT-мониторинга - Borobov Ivan
 ---
 ### Задание 1
-1. `Создал репозиторий на Github и клонирую его на свой ПК git clone 
-https://github.com/Borobov/netol> 2. `Указал своё имя и электронную почту: git config --global 
-user.name "Borobov I" git config --globa> 3. ![скриншот 
-1](https://github.com/Borobov/gitlab-hw/blob/main/img/1-git-status.png) 4. ![скриншот 
-2](https://github.com/Borobov/gitlab-hw/blob/main/img/2-git-status-git-diff-git-staged.> 5. 
-![скриншот 3](https://github.com/Borobov/gitlab-hw/blob/main/img/3-git-add.png)
-6. ![скриншот 4](https://github.com/Borobov/gitlab-hw/blob/main/img/4-git-commit.png) 7. 
-`https://github.com/Borobov/netology/commit/6dc21324c66727c46a655f2ff92b977e23ba741b` ---
-### Задание 2
-`Ответ: https://github.com/Borobov/netology/commit/48d1bf2e8ce37249f5ceaaf331dc65a7ce5430bb` 
+1. ![скриншот 1](https://github.com/Borobov/gitlab-hw-2/blob/main/img/Cloud-mon.png)
+
 ---
-### Задание 3
-`Ответ: https://github.com/Borobov/netology/network` ---
 ## Дополнительные задания (со звездочкой*)
-### Задание 4
-1. `Скриншот конфликта`
-![Скрин конфликт](https://github.com/Borobov/gitlab-hw/blob/main/img/conflict-2.png)
-2. `Ответ: https://github.com/Borobov/netology/network`
+### Задание 2
+1. ![Скриншот 2](https://github.com/Borobov/gitlab-hw-2/blob/main/img/Cloud-mon-1.png)
+2. ![Скриншот 3](https://github.com/Borobov/gitlab-hw-2/blob/main/img/Cloud-mon-2.png)
